@@ -1,0 +1,8 @@
+Regardless = ไม่คำนึงถึง
+situations = สถานการณ์
+simply =  ง่าย
+malicious  = ร้าย
+infiltrated = แทรกซึม
+elicitor = กระตุ้น
+manipulate = โกง
+
